@@ -1,6 +1,6 @@
 # ![](icono.png) Bienvenido a mi perfil
 
-Mi nombre es Luis Ruiz Moreno, soy actualmente estudiante de Ingeniería Informática de la [Universidad Nebrija](https://www.nebrija.com/). En mi GitHub subiré tanto repositorios relacionados con apuntes/ejercicios/trabajos de la universidad, y proyectos personales.
+Mi nombre es Luis Ruiz Moreno.
 
 ## 💬 Contacta conmigo:
 
